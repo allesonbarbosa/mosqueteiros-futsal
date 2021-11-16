@@ -75,8 +75,12 @@ export const Scoreboard = styled.div `
     justify-content: center;
     font-size: 25px;
     @media(max-width: 800px){
-        width: 100%;
+        width: 100vw;
         margin: 20px 0;
-
+        gap: 8px;
+        p{
+            text-align: center;
+            font-size: 16px;
+        }
     }
 `
