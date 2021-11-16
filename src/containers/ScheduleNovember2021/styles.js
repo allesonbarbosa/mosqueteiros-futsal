@@ -79,4 +79,11 @@ export const Scoreboard = styled.div `
         margin: 20px 0;
 
     }
+    @media(max-width: 400px){
+        width: 100%;
+        margin: 20px 0;
+        font-size: 18px;
+        text-align: center;
+
+    }
 `
