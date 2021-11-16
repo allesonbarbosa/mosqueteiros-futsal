@@ -77,6 +77,10 @@ export const Scoreboard = styled.div `
     @media(max-width: 800px){
         width: 100vw;
         margin: 20px 0;
-        font-size: 20px;
+        gap: 10px;
+        p{
+            text-align: center;
+            font-size: 18px;
+        }
     }
 `
