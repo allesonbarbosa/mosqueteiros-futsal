@@ -48,29 +48,37 @@ export const CardPlayerFront = styled.div `
             width: 100%;
             backface-visibility: hidden;
             z-index: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
     
     div{
             display: flex;
             flex-direction: row;
-            gap: 8px;
             justify-content: center;
-            align-items: flex-end;
+            align-items: center;
+            gap: 5px;
+            width: 100%;
+            height: 100%;
             margin-top: 20px;
         }
     img{
         border-top-left-radius: 14px;
         border-top-right-radius: 14px;
         width: 100%;
+        height: 100%;
     }
     p{
         color: #323673;
         text-transform: uppercase;
         font-size: 23px;
+        text-align: center;
     }
     b{
         color: #FFA500;
         text-transform: uppercase;
         font-size: 23px;
+        text-align: center;
     }
 `
 export const CardPlayerBack = styled.div`

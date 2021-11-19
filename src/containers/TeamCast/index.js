@@ -24,7 +24,7 @@ function TeamCast() {
     const players = [
         { imagem: <img src={Alleson} alt="foto-alle" />, name: "Alle", number: 94, position: "Goleiro", games: 6, goals: 0, assists: 0 },
         { imagem: <img src={Igor} alt="foto-Igor" />, name: "Igor", number: 90, position: "Goleiro", games: 6, goals: 0, assists: 0 },
-        { imagem: <img src={RafaelSantos} alt="foto-rafael-santos" />, name: "Rafael Santos", number: 1, position: "Goleiro", games: 4, goals: 0, assists: 0 },
+        { imagem: <img src={RafaelSantos} alt="foto-rafael-santos" />, name: "Rafael Ie", number: 1, position: "Goleiro", games: 4, goals: 0, assists: 0 },
         { imagem: <img src={DefaultAvatar} alt="default-avatar" />, name: "César", number: 6, position: "Fixo", games: 5, goals: 4, assists: 6 },
         { imagem: <img src={DefaultAvatar} alt="default-avatar" />, name: "Queiroz", number: 8, position: "Fixo", games: 9, goals: 1, assists: 4 },
         { imagem: <img src={Rai} alt="foto-rai" />, name: "Rai", number: 12, position: "Fixo", games: 4, goals: 0, assists: 1 },
