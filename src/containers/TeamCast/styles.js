@@ -27,7 +27,7 @@ export const CardPlayer = styled.div`
     perspective: 1000px;
     @media(max-width: 920px){
         width: 80vw;   
-        height: 80vw;
+        height: 75vw;
     }
 
 `
@@ -52,8 +52,9 @@ export const CardPlayerFront = styled.div `
     div{
             display: flex;
             flex-direction: row;
-            gap: 10px;
+            gap: 8px;
             justify-content: center;
+            align-items: flex-end;
             margin-top: 20px;
         }
     img{
@@ -64,12 +65,12 @@ export const CardPlayerFront = styled.div `
     p{
         color: #323673;
         text-transform: uppercase;
-        font-size: 25px;
+        font-size: 23px;
     }
     b{
         color: #FFA500;
         text-transform: uppercase;
-        font-size: 25px;
+        font-size: 23px;
     }
 `
 export const CardPlayerBack = styled.div`
