@@ -34,7 +34,7 @@ function Footers() {
               <Link to="/elenco">Elenco</Link>
             </li>
             <li>
-              <Link to="/agenda-jogos">Agenda</Link>
+              <Link to="/agenda-jogos/novembro/2021">Agenda</Link>
             </li>
           </ul>
         </FooterMenu>

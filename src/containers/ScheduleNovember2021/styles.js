@@ -20,6 +20,7 @@ export const ScheduleMenu = styled.div `
         box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.75);
         border-radius: 14px;
         padding: 15px;
+        text-align: center;
     }
 `
 export const ContainerGameCard = styled.div `
@@ -80,7 +81,7 @@ export const Scoreboard = styled.div `
         gap: 8px;
         p{
             text-align: center;
-            font-size: 16px;
+            font-size: 14px;
         }
     }
 `
