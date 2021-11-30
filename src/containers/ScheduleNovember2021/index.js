@@ -27,8 +27,9 @@ function ScheduleNovember2021() {
         { championship: "Amistoso", date: "07/11/2021", local: "Arena Dunga", TeamHome: "Mosqueteiros Futsal", TeamAway: "Feital FC", GoalsHome: "6", GoalsAway: "9" },
         { championship: "Amistoso", date: "07/11/2021", local: "Arena Dunga", TeamHome: "Mosqueteiros Futsal", TeamAway: "Real Mercenários", GoalsHome: "3", GoalsAway: "6" },
         { championship: "Amistoso", date: "14/11/2021", local: "Arena Dunga", TeamHome: "Mosqueteiros Futsal", TeamAway: "Chapolin's FC", GoalsHome: "24", GoalsAway: "1" },
-        { championship: "Amistoso", date: "21/11/2021", local: "Arena Dunga", TeamHome: "Mosqueteiros Futsal", TeamAway: "Raça União FC", GoalsHome: "", GoalsAway: "" },
-        { championship: "Amistoso", date: "28/11/2021", local: "Arena Dunga", TeamHome: "Mosqueteiros Futsal", TeamAway: "Sem Compromisso FC", GoalsHome: "", GoalsAway: "" },
+        { championship: "Amistoso", date: "21/11/2021", local: "Arena Dunga", TeamHome: "Mosqueteiros Futsal", TeamAway: "Unidos da 2 FC", GoalsHome: "5", GoalsAway: "9" },
+        { championship: "Amistoso", date: "21/11/2021", local: "Arena Dunga", TeamHome: "Mosqueteiros Futsal", TeamAway: "Raça União FC", GoalsHome: "1", GoalsAway: "6" },
+        { championship: "Amistoso", date: "28/11/2021", local: "Arena Dunga", TeamHome: "Mosqueteiros Futsal", TeamAway: "Z5 FC", GoalsHome: "6", GoalsAway: "8" },
     ];
 
     return (
